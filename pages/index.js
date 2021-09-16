@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
+import PostCommentCard from '../components/postCommentCard'
 import UserBanner from '../components/UserBanner'
 
 export default function Home() {
@@ -15,6 +16,9 @@ export default function Home() {
 
     {/* user banner */}
     <UserBanner />
+
+    {/* post comment  */}
+    <PostCommentCard />
       
     </div>
   )
