@@ -9,10 +9,10 @@ function Navbar() {
     
 
     return (
-        <div className="container bg-white p-1">
+        <div className="  bg-white p-1">
             <div className="flex justify-between ">
                 <div className="flex space-x-3">
-                    <Image src={logo} width={40} height={45} />
+                    <Image src={logo} className="w-40 h-45 md:w-60 " width={40} height={45} />
             
                     <div className=" cursor-pointer ">
                         <SearchIcon className="h-10 w-7 " />
