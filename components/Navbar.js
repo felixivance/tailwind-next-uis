@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import logo from '../images/linkedIn.png';
+import felixIcon from "../images/me.jpeg";
 
 import { HomeIcon, SearchIcon, UserGroupIcon, BriefcaseIcon, ChatAltIcon, BellIcon } from '@heroicons/react/solid'
 
@@ -38,6 +39,10 @@ function Navbar() {
                     <div className="cursor-pointer">
                         <BellIcon className="h-10 w-7 " />
                         <p className="hidden md:block text-gray-400 text-sm">Notifications</p>
+                    </div>
+                    <div className="cursor-pointer">
+                        <Image src={felixIcon} width={30} height={40} className="rounded-full " />
+                        <p className="hidden md:block text-gray-400 text-sm">Me</p>
                     </div>
                     
                 </div>
