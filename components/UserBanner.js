@@ -17,7 +17,7 @@ function UserBanner() {
                     <ArrowDownIcon className="h-5 w-6 pt-1" />
                </div>
             </div>
-
+            
         </div>
     )
 }
