@@ -8,4 +8,4 @@ Mobile View
 
 Desktop View
 <!-- ![Screenshot 2](https://github.com/felixivance/tailwind-next-uis/blob/master/public/screenshots/articlePreview-desktop.png) -->
-<img src="https://github.com/felixivance/tailwind-next-uis/blob/master/public/screenshots/articlePreview-desktop.png" width="400" height="500">
+<img src="https://github.com/felixivance/tailwind-next-uis/blob/master/public/screenshots/articlePreview-desktop.png" width="600" height="250">
