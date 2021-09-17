@@ -16,7 +16,7 @@ function articlePreview() {
                         <div className="flex items-center">
                             <img src="/images/avatar-michelle.jpeg" className="h-10 w-10 rounded-full " alt="" />
                             <div className="ml-4">
-                                <p className="text-gray-800 text-sm font-semibold">Michelle </p>
+                                <p className="text-gray-800 text-sm font-semibold"> Winnie Wanjiru  </p>
                                 <p className="text-gray-600 text-sm">30 Sep 2021</p>
                             </div>
                         </div>
